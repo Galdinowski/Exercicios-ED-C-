@@ -19,7 +19,9 @@ class program
             montante = (montante+(montante*juros))- retirada;
             meses++;
             
+            Console.WriteLine($"Saldo do mes {meses}; ");
             Console.WriteLine(montante.ToString("C2",new CultureInfo("pt-BR")));
+
 
              Aposentadoria(montante , retirada);
 

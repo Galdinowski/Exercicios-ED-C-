@@ -12,3 +12,4 @@
 /home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 1/SexEx/SextoEx/obj/Debug/net8.0/SextoEx.pdb
 /home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 1/SexEx/SextoEx/obj/Debug/net8.0/SextoEx.genruntimeconfig.cache
 /home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 1/SexEx/SextoEx/obj/Debug/net8.0/ref/SextoEx.dll
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 1/SexEx/SextoEx/obj/Debug/net8.0/SextoEx.sourcelink.json

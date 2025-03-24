@@ -12,3 +12,4 @@
 /home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 1/QuiEx/QuintoEx/obj/Debug/net8.0/QuintoEx.pdb
 /home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 1/QuiEx/QuintoEx/obj/Debug/net8.0/QuintoEx.genruntimeconfig.cache
 /home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 1/QuiEx/QuintoEx/obj/Debug/net8.0/ref/QuintoEx.dll
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 1/QuiEx/QuintoEx/obj/Debug/net8.0/QuintoEx.sourcelink.json

@@ -12,3 +12,4 @@
 /home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 1/QuartoEx/QuartoEX/obj/Debug/net8.0/QuartoEX.pdb
 /home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 1/QuartoEx/QuartoEX/obj/Debug/net8.0/QuartoEX.genruntimeconfig.cache
 /home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 1/QuartoEx/QuartoEX/obj/Debug/net8.0/ref/QuartoEX.dll
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 1/QuartoEx/QuartoEX/obj/Debug/net8.0/QuartoEX.sourcelink.json

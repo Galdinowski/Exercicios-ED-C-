@@ -27,7 +27,7 @@ class Program
 
         static void Main(string[] args)
         {
-            int n = 6;
+            int n = 12;
         Recursao(n);
 
         }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TerceiroEx")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3b1d152e3e2db44a566ebd92b34b48576cd8db0")]
 [assembly: System.Reflection.AssemblyProductAttribute("TerceiroEx")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TerceiroEx")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

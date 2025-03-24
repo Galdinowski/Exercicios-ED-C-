@@ -12,3 +12,4 @@
 /home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 1/TercEX/TerceiroEx/obj/Debug/net8.0/TerceiroEx.pdb
 /home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 1/TercEX/TerceiroEx/obj/Debug/net8.0/TerceiroEx.genruntimeconfig.cache
 /home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 1/TercEX/TerceiroEx/obj/Debug/net8.0/ref/TerceiroEx.dll
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 1/TercEX/TerceiroEx/obj/Debug/net8.0/TerceiroEx.sourcelink.json

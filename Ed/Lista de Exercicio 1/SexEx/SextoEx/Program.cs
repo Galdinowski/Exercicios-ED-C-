@@ -2,12 +2,12 @@
 
 class Program
 {
-    static int tamanho ;
-    static int contador;
+    //static int tamanho ;
+    //static int contador;
     static string vogais ="aeiouAEIOU";
 
 
-    static void Vogais (string vog)
+    static void Vogais (string vog, int contador, int tamanho)
     {
         
         if(tamanho < 0)
@@ -32,7 +32,7 @@ class Program
 
              tamanho --;
               
-              Vogais(vog);
+              Vogais(vog,contador,tamanho);
                
                 
                  
@@ -42,10 +42,12 @@ class Program
     static void Main(string[] args)
     {
         string vog = "carnavalesco";
-        tamanho = vog.Length-1;
-        contador = 0;
+        int tamanho = vog.Length-1;
+        int contador = 0;
+
+        Console.WriteLine(contador);
         Console.Write("As vogais presentes sao : ");
-        Vogais(vog);
+        Vogais(vog,contador,tamanho);
 
     }
 

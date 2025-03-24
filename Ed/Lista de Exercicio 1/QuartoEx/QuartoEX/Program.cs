@@ -20,10 +20,12 @@ class program
                 vet[index] *= -1;
                 contador++;
                 index--;
+                
                     return  VetorMenosUm(vet);
                 }
                 
                     index--;
+                    
                      return VetorMenosUm(vet);
             
                
@@ -33,11 +35,17 @@ class program
    
    static void Main(string[] args)
     {
-        int[] vet =[-4, 15, 51, -42, 12, -8, 9, 91, -6];
+        int[] vet ={-4, 15, 51, -42, 12, -8, 9, 91, -6};
         index = vet.Length-1;
         contador = 0;
+
+        VetorMenosUm(vet);
+         Console.WriteLine($"Total de números negativos convertidos: {contador}");
        
-        Console.WriteLine(VetorMenosUm(vet));
+       foreach (var item in vet)
+        {
+            Console.Write($"{item}, ");
+        }
         
     }
 
