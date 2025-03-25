@@ -1,0 +1,15 @@
+/home/dinolinux/CodigosVianna/Ed/Interacao/Bubble Sort/bin/Debug/net8.0/Bubble Sort
+/home/dinolinux/CodigosVianna/Ed/Interacao/Bubble Sort/bin/Debug/net8.0/Bubble Sort.deps.json
+/home/dinolinux/CodigosVianna/Ed/Interacao/Bubble Sort/bin/Debug/net8.0/Bubble Sort.runtimeconfig.json
+/home/dinolinux/CodigosVianna/Ed/Interacao/Bubble Sort/bin/Debug/net8.0/Bubble Sort.dll
+/home/dinolinux/CodigosVianna/Ed/Interacao/Bubble Sort/bin/Debug/net8.0/Bubble Sort.pdb
+/home/dinolinux/CodigosVianna/Ed/Interacao/Bubble Sort/obj/Debug/net8.0/Bubble Sort.GeneratedMSBuildEditorConfig.editorconfig
+/home/dinolinux/CodigosVianna/Ed/Interacao/Bubble Sort/obj/Debug/net8.0/Bubble Sort.AssemblyInfoInputs.cache
+/home/dinolinux/CodigosVianna/Ed/Interacao/Bubble Sort/obj/Debug/net8.0/Bubble Sort.AssemblyInfo.cs
+/home/dinolinux/CodigosVianna/Ed/Interacao/Bubble Sort/obj/Debug/net8.0/Bubble Sort.csproj.CoreCompileInputs.cache
+/home/dinolinux/CodigosVianna/Ed/Interacao/Bubble Sort/obj/Debug/net8.0/Bubble Sort.sourcelink.json
+/home/dinolinux/CodigosVianna/Ed/Interacao/Bubble Sort/obj/Debug/net8.0/Bubble Sort.dll
+/home/dinolinux/CodigosVianna/Ed/Interacao/Bubble Sort/obj/Debug/net8.0/refint/Bubble Sort.dll
+/home/dinolinux/CodigosVianna/Ed/Interacao/Bubble Sort/obj/Debug/net8.0/Bubble Sort.pdb
+/home/dinolinux/CodigosVianna/Ed/Interacao/Bubble Sort/obj/Debug/net8.0/Bubble Sort.genruntimeconfig.cache
+/home/dinolinux/CodigosVianna/Ed/Interacao/Bubble Sort/obj/Debug/net8.0/ref/Bubble Sort.dll

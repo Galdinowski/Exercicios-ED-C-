@@ -1,0 +1,15 @@
+/home/dinolinux/CodigosVianna/Ed/Interacao/Quick Sort/bin/Debug/net8.0/Quick Sort
+/home/dinolinux/CodigosVianna/Ed/Interacao/Quick Sort/bin/Debug/net8.0/Quick Sort.deps.json
+/home/dinolinux/CodigosVianna/Ed/Interacao/Quick Sort/bin/Debug/net8.0/Quick Sort.runtimeconfig.json
+/home/dinolinux/CodigosVianna/Ed/Interacao/Quick Sort/bin/Debug/net8.0/Quick Sort.dll
+/home/dinolinux/CodigosVianna/Ed/Interacao/Quick Sort/bin/Debug/net8.0/Quick Sort.pdb
+/home/dinolinux/CodigosVianna/Ed/Interacao/Quick Sort/obj/Debug/net8.0/Quick Sort.GeneratedMSBuildEditorConfig.editorconfig
+/home/dinolinux/CodigosVianna/Ed/Interacao/Quick Sort/obj/Debug/net8.0/Quick Sort.AssemblyInfoInputs.cache
+/home/dinolinux/CodigosVianna/Ed/Interacao/Quick Sort/obj/Debug/net8.0/Quick Sort.AssemblyInfo.cs
+/home/dinolinux/CodigosVianna/Ed/Interacao/Quick Sort/obj/Debug/net8.0/Quick Sort.csproj.CoreCompileInputs.cache
+/home/dinolinux/CodigosVianna/Ed/Interacao/Quick Sort/obj/Debug/net8.0/Quick Sort.sourcelink.json
+/home/dinolinux/CodigosVianna/Ed/Interacao/Quick Sort/obj/Debug/net8.0/Quick Sort.dll
+/home/dinolinux/CodigosVianna/Ed/Interacao/Quick Sort/obj/Debug/net8.0/refint/Quick Sort.dll
+/home/dinolinux/CodigosVianna/Ed/Interacao/Quick Sort/obj/Debug/net8.0/Quick Sort.pdb
+/home/dinolinux/CodigosVianna/Ed/Interacao/Quick Sort/obj/Debug/net8.0/Quick Sort.genruntimeconfig.cache
+/home/dinolinux/CodigosVianna/Ed/Interacao/Quick Sort/obj/Debug/net8.0/ref/Quick Sort.dll
