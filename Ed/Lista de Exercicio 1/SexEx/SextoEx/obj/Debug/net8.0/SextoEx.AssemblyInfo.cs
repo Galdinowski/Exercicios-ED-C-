@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SextoEx")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3b1d152e3e2db44a566ebd92b34b48576cd8db0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84b4980b326d611b8c079ceb7aab5d20b6b815ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("SextoEx")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SextoEx")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

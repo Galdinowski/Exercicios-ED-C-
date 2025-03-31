@@ -12,7 +12,6 @@ class Program
         
         if(tamanho < 0)
         {
-            
             Console.WriteLine("");
              Console.WriteLine($"O numero de vogais nesta Palavras é de: {contador}");
             return;
@@ -21,18 +20,13 @@ class Program
     
 
             if(vogais.Contains(vog[tamanho]))
-            {
-                
+            {    
                 contador ++; 
                 
                 Console.Write($"[{vog[tamanho]}] ");
-               
-            }
-            
-
-             tamanho --;
               
-              Vogais(vog,contador,tamanho);
+            } 
+              Vogais(vog,contador,tamanho-1);
                
                 
                  
@@ -41,11 +35,9 @@ class Program
 
     static void Main(string[] args)
     {
-        string vog = "carnavalesco";
+        string vog = "arthur";
         int tamanho = vog.Length-1;
         int contador = 0;
-
-        Console.WriteLine(contador);
         Console.Write("As vogais presentes sao : ");
         Vogais(vog,contador,tamanho);
 

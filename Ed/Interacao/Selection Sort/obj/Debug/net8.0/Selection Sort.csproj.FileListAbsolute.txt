@@ -1,0 +1,15 @@
+/home/dinolinux/CodigosVianna/Ed/Interacao/Selection Sort/bin/Debug/net8.0/Selection Sort
+/home/dinolinux/CodigosVianna/Ed/Interacao/Selection Sort/bin/Debug/net8.0/Selection Sort.deps.json
+/home/dinolinux/CodigosVianna/Ed/Interacao/Selection Sort/bin/Debug/net8.0/Selection Sort.runtimeconfig.json
+/home/dinolinux/CodigosVianna/Ed/Interacao/Selection Sort/bin/Debug/net8.0/Selection Sort.dll
+/home/dinolinux/CodigosVianna/Ed/Interacao/Selection Sort/bin/Debug/net8.0/Selection Sort.pdb
+/home/dinolinux/CodigosVianna/Ed/Interacao/Selection Sort/obj/Debug/net8.0/Selection Sort.GeneratedMSBuildEditorConfig.editorconfig
+/home/dinolinux/CodigosVianna/Ed/Interacao/Selection Sort/obj/Debug/net8.0/Selection Sort.AssemblyInfoInputs.cache
+/home/dinolinux/CodigosVianna/Ed/Interacao/Selection Sort/obj/Debug/net8.0/Selection Sort.AssemblyInfo.cs
+/home/dinolinux/CodigosVianna/Ed/Interacao/Selection Sort/obj/Debug/net8.0/Selection Sort.csproj.CoreCompileInputs.cache
+/home/dinolinux/CodigosVianna/Ed/Interacao/Selection Sort/obj/Debug/net8.0/Selection Sort.sourcelink.json
+/home/dinolinux/CodigosVianna/Ed/Interacao/Selection Sort/obj/Debug/net8.0/Selection Sort.dll
+/home/dinolinux/CodigosVianna/Ed/Interacao/Selection Sort/obj/Debug/net8.0/refint/Selection Sort.dll
+/home/dinolinux/CodigosVianna/Ed/Interacao/Selection Sort/obj/Debug/net8.0/Selection Sort.pdb
+/home/dinolinux/CodigosVianna/Ed/Interacao/Selection Sort/obj/Debug/net8.0/Selection Sort.genruntimeconfig.cache
+/home/dinolinux/CodigosVianna/Ed/Interacao/Selection Sort/obj/Debug/net8.0/ref/Selection Sort.dll
