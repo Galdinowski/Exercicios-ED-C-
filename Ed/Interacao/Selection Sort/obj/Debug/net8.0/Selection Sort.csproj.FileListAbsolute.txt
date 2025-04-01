@@ -7,7 +7,6 @@
 /home/dinolinux/CodigosVianna/Ed/Interacao/Selection Sort/obj/Debug/net8.0/Selection Sort.AssemblyInfoInputs.cache
 /home/dinolinux/CodigosVianna/Ed/Interacao/Selection Sort/obj/Debug/net8.0/Selection Sort.AssemblyInfo.cs
 /home/dinolinux/CodigosVianna/Ed/Interacao/Selection Sort/obj/Debug/net8.0/Selection Sort.csproj.CoreCompileInputs.cache
-/home/dinolinux/CodigosVianna/Ed/Interacao/Selection Sort/obj/Debug/net8.0/Selection Sort.sourcelink.json
 /home/dinolinux/CodigosVianna/Ed/Interacao/Selection Sort/obj/Debug/net8.0/Selection Sort.dll
 /home/dinolinux/CodigosVianna/Ed/Interacao/Selection Sort/obj/Debug/net8.0/refint/Selection Sort.dll
 /home/dinolinux/CodigosVianna/Ed/Interacao/Selection Sort/obj/Debug/net8.0/Selection Sort.pdb

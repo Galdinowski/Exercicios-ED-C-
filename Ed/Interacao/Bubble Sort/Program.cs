@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        int[] vet = {1,9,21,2,3,6,8,15};
+        int[] vet = {1,9,21,2,3,6,8,151,15,0,88};
         int aux;
         
 

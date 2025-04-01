@@ -2,7 +2,6 @@
 /home/dinolinux/CodigosVianna/Ed/Interacao/Insertion Sort/obj/Debug/net8.0/Insertion Sort.AssemblyInfoInputs.cache
 /home/dinolinux/CodigosVianna/Ed/Interacao/Insertion Sort/obj/Debug/net8.0/Insertion Sort.AssemblyInfo.cs
 /home/dinolinux/CodigosVianna/Ed/Interacao/Insertion Sort/obj/Debug/net8.0/Insertion Sort.csproj.CoreCompileInputs.cache
-/home/dinolinux/CodigosVianna/Ed/Interacao/Insertion Sort/obj/Debug/net8.0/Insertion Sort.sourcelink.json
 /home/dinolinux/CodigosVianna/Ed/Interacao/Insertion Sort/bin/Debug/net8.0/Insertion Sort
 /home/dinolinux/CodigosVianna/Ed/Interacao/Insertion Sort/bin/Debug/net8.0/Insertion Sort.deps.json
 /home/dinolinux/CodigosVianna/Ed/Interacao/Insertion Sort/bin/Debug/net8.0/Insertion Sort.runtimeconfig.json

@@ -32,13 +32,15 @@ class Program
     
     static void Main(string[] args)
     {
-        int[] vet = {10,0,2,4,3,8,7,6,78,1,98 ,46};
+        int[] vet = {10,0,2,4,3};
        
+        Console.Write("Vetor original: ");
          foreach (var item in vet)
         {
             Console.Write($"{item} ");
         }
         Console.WriteLine();
+        Console.Write("Vetor Ordenado: ");
         
         Insertion_Sort(vet);
 

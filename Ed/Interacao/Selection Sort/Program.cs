@@ -35,7 +35,7 @@ class Program
     }
     static void Main(string[] args)
     {
-        int[] vet = {2,3,5,10,8,0,99,45,75,6,1};
+        int[] vet = {2,3,5,99,45,6,1};
         Selection(vet);
 
     }
