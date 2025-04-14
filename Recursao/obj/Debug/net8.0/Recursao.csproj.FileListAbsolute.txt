@@ -1,0 +1,15 @@
+/home/dinolinux/CodigosVianna/Ed/Recursao/bin/Debug/net8.0/Recursao
+/home/dinolinux/CodigosVianna/Ed/Recursao/bin/Debug/net8.0/Recursao.deps.json
+/home/dinolinux/CodigosVianna/Ed/Recursao/bin/Debug/net8.0/Recursao.runtimeconfig.json
+/home/dinolinux/CodigosVianna/Ed/Recursao/bin/Debug/net8.0/Recursao.dll
+/home/dinolinux/CodigosVianna/Ed/Recursao/bin/Debug/net8.0/Recursao.pdb
+/home/dinolinux/CodigosVianna/Ed/Recursao/obj/Debug/net8.0/Recursao.GeneratedMSBuildEditorConfig.editorconfig
+/home/dinolinux/CodigosVianna/Ed/Recursao/obj/Debug/net8.0/Recursao.AssemblyInfoInputs.cache
+/home/dinolinux/CodigosVianna/Ed/Recursao/obj/Debug/net8.0/Recursao.AssemblyInfo.cs
+/home/dinolinux/CodigosVianna/Ed/Recursao/obj/Debug/net8.0/Recursao.csproj.CoreCompileInputs.cache
+/home/dinolinux/CodigosVianna/Ed/Recursao/obj/Debug/net8.0/Recursao.sourcelink.json
+/home/dinolinux/CodigosVianna/Ed/Recursao/obj/Debug/net8.0/Recursao.dll
+/home/dinolinux/CodigosVianna/Ed/Recursao/obj/Debug/net8.0/refint/Recursao.dll
+/home/dinolinux/CodigosVianna/Ed/Recursao/obj/Debug/net8.0/Recursao.pdb
+/home/dinolinux/CodigosVianna/Ed/Recursao/obj/Debug/net8.0/Recursao.genruntimeconfig.cache
+/home/dinolinux/CodigosVianna/Ed/Recursao/obj/Debug/net8.0/ref/Recursao.dll
