@@ -1,0 +1,15 @@
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 2 (Ordenação)/Ex3 (Selection)/bin/Debug/net8.0/Ex3 (Selection)
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 2 (Ordenação)/Ex3 (Selection)/bin/Debug/net8.0/Ex3 (Selection).deps.json
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 2 (Ordenação)/Ex3 (Selection)/bin/Debug/net8.0/Ex3 (Selection).runtimeconfig.json
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 2 (Ordenação)/Ex3 (Selection)/bin/Debug/net8.0/Ex3 (Selection).dll
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 2 (Ordenação)/Ex3 (Selection)/bin/Debug/net8.0/Ex3 (Selection).pdb
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 2 (Ordenação)/Ex3 (Selection)/obj/Debug/net8.0/Ex3 (Selection).GeneratedMSBuildEditorConfig.editorconfig
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 2 (Ordenação)/Ex3 (Selection)/obj/Debug/net8.0/Ex3 (Selection).AssemblyInfoInputs.cache
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 2 (Ordenação)/Ex3 (Selection)/obj/Debug/net8.0/Ex3 (Selection).AssemblyInfo.cs
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 2 (Ordenação)/Ex3 (Selection)/obj/Debug/net8.0/Ex3 (Selection).csproj.CoreCompileInputs.cache
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 2 (Ordenação)/Ex3 (Selection)/obj/Debug/net8.0/Ex3 (Selection).sourcelink.json
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 2 (Ordenação)/Ex3 (Selection)/obj/Debug/net8.0/Ex3 (Selection).dll
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 2 (Ordenação)/Ex3 (Selection)/obj/Debug/net8.0/refint/Ex3 (Selection).dll
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 2 (Ordenação)/Ex3 (Selection)/obj/Debug/net8.0/Ex3 (Selection).pdb
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 2 (Ordenação)/Ex3 (Selection)/obj/Debug/net8.0/Ex3 (Selection).genruntimeconfig.cache
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 2 (Ordenação)/Ex3 (Selection)/obj/Debug/net8.0/ref/Ex3 (Selection).dll

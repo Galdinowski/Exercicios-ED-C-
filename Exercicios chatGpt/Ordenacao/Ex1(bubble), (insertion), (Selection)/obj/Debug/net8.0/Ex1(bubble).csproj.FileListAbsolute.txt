@@ -1,0 +1,30 @@
+/home/dinolinux/CodigosVianna/Ed/Exercicios chatGpt/Ordenacao/Ex1(bubble)/bin/Debug/net8.0/Ex1(bubble)
+/home/dinolinux/CodigosVianna/Ed/Exercicios chatGpt/Ordenacao/Ex1(bubble)/bin/Debug/net8.0/Ex1(bubble).deps.json
+/home/dinolinux/CodigosVianna/Ed/Exercicios chatGpt/Ordenacao/Ex1(bubble)/bin/Debug/net8.0/Ex1(bubble).runtimeconfig.json
+/home/dinolinux/CodigosVianna/Ed/Exercicios chatGpt/Ordenacao/Ex1(bubble)/bin/Debug/net8.0/Ex1(bubble).dll
+/home/dinolinux/CodigosVianna/Ed/Exercicios chatGpt/Ordenacao/Ex1(bubble)/bin/Debug/net8.0/Ex1(bubble).pdb
+/home/dinolinux/CodigosVianna/Ed/Exercicios chatGpt/Ordenacao/Ex1(bubble)/obj/Debug/net8.0/Ex1(bubble).GeneratedMSBuildEditorConfig.editorconfig
+/home/dinolinux/CodigosVianna/Ed/Exercicios chatGpt/Ordenacao/Ex1(bubble)/obj/Debug/net8.0/Ex1(bubble).AssemblyInfoInputs.cache
+/home/dinolinux/CodigosVianna/Ed/Exercicios chatGpt/Ordenacao/Ex1(bubble)/obj/Debug/net8.0/Ex1(bubble).AssemblyInfo.cs
+/home/dinolinux/CodigosVianna/Ed/Exercicios chatGpt/Ordenacao/Ex1(bubble)/obj/Debug/net8.0/Ex1(bubble).csproj.CoreCompileInputs.cache
+/home/dinolinux/CodigosVianna/Ed/Exercicios chatGpt/Ordenacao/Ex1(bubble)/obj/Debug/net8.0/Ex1(bubble).sourcelink.json
+/home/dinolinux/CodigosVianna/Ed/Exercicios chatGpt/Ordenacao/Ex1(bubble)/obj/Debug/net8.0/Ex1(bubble).dll
+/home/dinolinux/CodigosVianna/Ed/Exercicios chatGpt/Ordenacao/Ex1(bubble)/obj/Debug/net8.0/refint/Ex1(bubble).dll
+/home/dinolinux/CodigosVianna/Ed/Exercicios chatGpt/Ordenacao/Ex1(bubble)/obj/Debug/net8.0/Ex1(bubble).pdb
+/home/dinolinux/CodigosVianna/Ed/Exercicios chatGpt/Ordenacao/Ex1(bubble)/obj/Debug/net8.0/Ex1(bubble).genruntimeconfig.cache
+/home/dinolinux/CodigosVianna/Ed/Exercicios chatGpt/Ordenacao/Ex1(bubble)/obj/Debug/net8.0/ref/Ex1(bubble).dll
+/home/dinolinux/CodigosVianna/Ed/Exercicios chatGpt/Ordenacao/Ex1(bubble), (insertion), (Selection)/bin/Debug/net8.0/Ex1(bubble)
+/home/dinolinux/CodigosVianna/Ed/Exercicios chatGpt/Ordenacao/Ex1(bubble), (insertion), (Selection)/bin/Debug/net8.0/Ex1(bubble).deps.json
+/home/dinolinux/CodigosVianna/Ed/Exercicios chatGpt/Ordenacao/Ex1(bubble), (insertion), (Selection)/bin/Debug/net8.0/Ex1(bubble).runtimeconfig.json
+/home/dinolinux/CodigosVianna/Ed/Exercicios chatGpt/Ordenacao/Ex1(bubble), (insertion), (Selection)/bin/Debug/net8.0/Ex1(bubble).dll
+/home/dinolinux/CodigosVianna/Ed/Exercicios chatGpt/Ordenacao/Ex1(bubble), (insertion), (Selection)/bin/Debug/net8.0/Ex1(bubble).pdb
+/home/dinolinux/CodigosVianna/Ed/Exercicios chatGpt/Ordenacao/Ex1(bubble), (insertion), (Selection)/obj/Debug/net8.0/Ex1(bubble).GeneratedMSBuildEditorConfig.editorconfig
+/home/dinolinux/CodigosVianna/Ed/Exercicios chatGpt/Ordenacao/Ex1(bubble), (insertion), (Selection)/obj/Debug/net8.0/Ex1(bubble).AssemblyInfoInputs.cache
+/home/dinolinux/CodigosVianna/Ed/Exercicios chatGpt/Ordenacao/Ex1(bubble), (insertion), (Selection)/obj/Debug/net8.0/Ex1(bubble).AssemblyInfo.cs
+/home/dinolinux/CodigosVianna/Ed/Exercicios chatGpt/Ordenacao/Ex1(bubble), (insertion), (Selection)/obj/Debug/net8.0/Ex1(bubble).csproj.CoreCompileInputs.cache
+/home/dinolinux/CodigosVianna/Ed/Exercicios chatGpt/Ordenacao/Ex1(bubble), (insertion), (Selection)/obj/Debug/net8.0/Ex1(bubble).sourcelink.json
+/home/dinolinux/CodigosVianna/Ed/Exercicios chatGpt/Ordenacao/Ex1(bubble), (insertion), (Selection)/obj/Debug/net8.0/Ex1(bubble).dll
+/home/dinolinux/CodigosVianna/Ed/Exercicios chatGpt/Ordenacao/Ex1(bubble), (insertion), (Selection)/obj/Debug/net8.0/refint/Ex1(bubble).dll
+/home/dinolinux/CodigosVianna/Ed/Exercicios chatGpt/Ordenacao/Ex1(bubble), (insertion), (Selection)/obj/Debug/net8.0/Ex1(bubble).pdb
+/home/dinolinux/CodigosVianna/Ed/Exercicios chatGpt/Ordenacao/Ex1(bubble), (insertion), (Selection)/obj/Debug/net8.0/Ex1(bubble).genruntimeconfig.cache
+/home/dinolinux/CodigosVianna/Ed/Exercicios chatGpt/Ordenacao/Ex1(bubble), (insertion), (Selection)/obj/Debug/net8.0/ref/Ex1(bubble).dll

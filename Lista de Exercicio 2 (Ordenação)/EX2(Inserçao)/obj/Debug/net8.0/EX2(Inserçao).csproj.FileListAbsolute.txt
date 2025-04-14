@@ -1,0 +1,15 @@
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 2 (Ordenação)/EX2(Inserçao)/bin/Debug/net8.0/EX2(Inserçao)
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 2 (Ordenação)/EX2(Inserçao)/bin/Debug/net8.0/EX2(Inserçao).deps.json
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 2 (Ordenação)/EX2(Inserçao)/bin/Debug/net8.0/EX2(Inserçao).runtimeconfig.json
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 2 (Ordenação)/EX2(Inserçao)/bin/Debug/net8.0/EX2(Inserçao).dll
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 2 (Ordenação)/EX2(Inserçao)/bin/Debug/net8.0/EX2(Inserçao).pdb
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 2 (Ordenação)/EX2(Inserçao)/obj/Debug/net8.0/EX2(Inserçao).GeneratedMSBuildEditorConfig.editorconfig
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 2 (Ordenação)/EX2(Inserçao)/obj/Debug/net8.0/EX2(Inserçao).AssemblyInfoInputs.cache
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 2 (Ordenação)/EX2(Inserçao)/obj/Debug/net8.0/EX2(Inserçao).AssemblyInfo.cs
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 2 (Ordenação)/EX2(Inserçao)/obj/Debug/net8.0/EX2(Inserçao).csproj.CoreCompileInputs.cache
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 2 (Ordenação)/EX2(Inserçao)/obj/Debug/net8.0/EX2(Inserçao).sourcelink.json
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 2 (Ordenação)/EX2(Inserçao)/obj/Debug/net8.0/EX2(Inserçao).dll
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 2 (Ordenação)/EX2(Inserçao)/obj/Debug/net8.0/refint/EX2(Inserçao).dll
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 2 (Ordenação)/EX2(Inserçao)/obj/Debug/net8.0/EX2(Inserçao).pdb
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 2 (Ordenação)/EX2(Inserçao)/obj/Debug/net8.0/EX2(Inserçao).genruntimeconfig.cache
+/home/dinolinux/CodigosVianna/Ed/Lista de Exercicio 2 (Ordenação)/EX2(Inserçao)/obj/Debug/net8.0/ref/EX2(Inserçao).dll
