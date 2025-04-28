@@ -1,0 +1,15 @@
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Encadeada Simples/ListaEncadeadaSimples/bin/Debug/net8.0/ListaEncadeadaSimples
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Encadeada Simples/ListaEncadeadaSimples/bin/Debug/net8.0/ListaEncadeadaSimples.deps.json
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Encadeada Simples/ListaEncadeadaSimples/bin/Debug/net8.0/ListaEncadeadaSimples.runtimeconfig.json
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Encadeada Simples/ListaEncadeadaSimples/bin/Debug/net8.0/ListaEncadeadaSimples.dll
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Encadeada Simples/ListaEncadeadaSimples/bin/Debug/net8.0/ListaEncadeadaSimples.pdb
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Encadeada Simples/ListaEncadeadaSimples/obj/Debug/net8.0/ListaEncadeadaSimples.GeneratedMSBuildEditorConfig.editorconfig
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Encadeada Simples/ListaEncadeadaSimples/obj/Debug/net8.0/ListaEncadeadaSimples.AssemblyInfoInputs.cache
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Encadeada Simples/ListaEncadeadaSimples/obj/Debug/net8.0/ListaEncadeadaSimples.AssemblyInfo.cs
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Encadeada Simples/ListaEncadeadaSimples/obj/Debug/net8.0/ListaEncadeadaSimples.csproj.CoreCompileInputs.cache
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Encadeada Simples/ListaEncadeadaSimples/obj/Debug/net8.0/ListaEncadeadaSimples.sourcelink.json
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Encadeada Simples/ListaEncadeadaSimples/obj/Debug/net8.0/ListaEncadeadaSimples.dll
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Encadeada Simples/ListaEncadeadaSimples/obj/Debug/net8.0/refint/ListaEncadeadaSimples.dll
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Encadeada Simples/ListaEncadeadaSimples/obj/Debug/net8.0/ListaEncadeadaSimples.pdb
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Encadeada Simples/ListaEncadeadaSimples/obj/Debug/net8.0/ListaEncadeadaSimples.genruntimeconfig.cache
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Encadeada Simples/ListaEncadeadaSimples/obj/Debug/net8.0/ref/ListaEncadeadaSimples.dll

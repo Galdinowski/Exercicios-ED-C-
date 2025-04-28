@@ -1,0 +1,15 @@
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Encadeada Simples/ListaDescritor/obj/Debug/net8.0/ListaDescritor.GeneratedMSBuildEditorConfig.editorconfig
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Encadeada Simples/ListaDescritor/obj/Debug/net8.0/ListaDescritor.AssemblyInfoInputs.cache
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Encadeada Simples/ListaDescritor/obj/Debug/net8.0/ListaDescritor.AssemblyInfo.cs
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Encadeada Simples/ListaDescritor/obj/Debug/net8.0/ListaDescritor.csproj.CoreCompileInputs.cache
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Encadeada Simples/ListaDescritor/obj/Debug/net8.0/ListaDescritor.sourcelink.json
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Encadeada Simples/ListaDescritor/bin/Debug/net8.0/ListaDescritor
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Encadeada Simples/ListaDescritor/bin/Debug/net8.0/ListaDescritor.deps.json
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Encadeada Simples/ListaDescritor/bin/Debug/net8.0/ListaDescritor.runtimeconfig.json
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Encadeada Simples/ListaDescritor/bin/Debug/net8.0/ListaDescritor.dll
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Encadeada Simples/ListaDescritor/bin/Debug/net8.0/ListaDescritor.pdb
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Encadeada Simples/ListaDescritor/obj/Debug/net8.0/ListaDescritor.dll
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Encadeada Simples/ListaDescritor/obj/Debug/net8.0/refint/ListaDescritor.dll
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Encadeada Simples/ListaDescritor/obj/Debug/net8.0/ListaDescritor.pdb
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Encadeada Simples/ListaDescritor/obj/Debug/net8.0/ListaDescritor.genruntimeconfig.cache
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Encadeada Simples/ListaDescritor/obj/Debug/net8.0/ref/ListaDescritor.dll
