@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ListaEncadeadaSimples")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f06bbe1d327e6a96088c8254f900bf1b3611caef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ffc926ebba604eebcc2c32b0d681988de924650")]
 [assembly: System.Reflection.AssemblyProductAttribute("ListaEncadeadaSimples")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ListaEncadeadaSimples")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

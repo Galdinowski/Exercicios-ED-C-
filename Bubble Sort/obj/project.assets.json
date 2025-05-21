@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dinolinux/CodigosVianna/Ed/Interacao/Bubble Sort/Bubble Sort.csproj",
+      "projectUniqueName": "/home/dinolinux/CodigosVianna/Ed/Bubble Sort/Bubble Sort.csproj",
       "projectName": "Bubble Sort",
-      "projectPath": "/home/dinolinux/CodigosVianna/Ed/Interacao/Bubble Sort/Bubble Sort.csproj",
+      "projectPath": "/home/dinolinux/CodigosVianna/Ed/Bubble Sort/Bubble Sort.csproj",
       "packagesPath": "/home/dinolinux/.nuget/packages/",
-      "outputPath": "/home/dinolinux/CodigosVianna/Ed/Interacao/Bubble Sort/obj/",
+      "outputPath": "/home/dinolinux/CodigosVianna/Ed/Bubble Sort/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/dinolinux/.nuget/NuGet/NuGet.Config"

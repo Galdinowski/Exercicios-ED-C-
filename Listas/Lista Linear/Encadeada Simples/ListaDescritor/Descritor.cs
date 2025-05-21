@@ -2,8 +2,8 @@ using System;
 
 public class DescritorNode
 {
-    public Node PrimeiroPos;
-     public Node UltimaPos;
+    public Node? PrimeiroPos;
+     public Node? UltimaPos;
      public int Tamanho;
 
      public DescritorNode()
@@ -21,7 +21,7 @@ public class DescritorNode
         {
             PrimeiroPos = novoNode;
             UltimaPos = novoNode;
-        }else
+        }else if(UltimaPos!=null)
         {
             UltimaPos.Proximo =novoNode;
             UltimaPos = novoNode;
@@ -31,16 +31,49 @@ public class DescritorNode
 
     }
 
-      public void Imprimir()
+    public void AddElementoNoInicio(int valor)
     {
-        Node atual = PrimeiroPos;
+        Node novoNode = new Node(valor);
+
+        if (PrimeiroPos == null)
+        {
+            PrimeiroPos = novoNode;
+            UltimaPos = novoNode;
+        }
+        else
+        {
+            novoNode.Proximo = PrimeiroPos;
+            PrimeiroPos = novoNode;
+
+        }
+        Tamanho++;
+    }
+
+    public void RemoveElementoNoInicio()
+    {
+
+
+        if (PrimeiroPos == null)
+        {
+            Console.WriteLine("Lista vazia");
+        }
+        else
+        {
+            PrimeiroPos = PrimeiroPos.Proximo;
+        }
+        Tamanho--;
+       
+    }
+    public void Imprimir()
+    {
+        Node? atual = PrimeiroPos;
         while (atual != null)
         {
             Console.Write(atual.Valor + " -> ");
             atual = atual.Proximo;
         }
         Console.WriteLine("null");
-        Console.WriteLine(UltimaPos.GetHashCode());
-         Console.WriteLine(Tamanho);
+        Console.WriteLine(PrimeiroPos.Proximo);
+        Console.WriteLine(Tamanho);
     }
 }

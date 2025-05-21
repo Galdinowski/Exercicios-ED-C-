@@ -1,0 +1,15 @@
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Listas Duplamente Encadeadas/bin/Debug/net8.0/Listas Duplamente Encadeadas
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Listas Duplamente Encadeadas/bin/Debug/net8.0/Listas Duplamente Encadeadas.deps.json
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Listas Duplamente Encadeadas/bin/Debug/net8.0/Listas Duplamente Encadeadas.runtimeconfig.json
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Listas Duplamente Encadeadas/bin/Debug/net8.0/Listas Duplamente Encadeadas.dll
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Listas Duplamente Encadeadas/bin/Debug/net8.0/Listas Duplamente Encadeadas.pdb
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Listas Duplamente Encadeadas/obj/Debug/net8.0/Listas Duplamente Encadeadas.GeneratedMSBuildEditorConfig.editorconfig
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Listas Duplamente Encadeadas/obj/Debug/net8.0/Listas Duplamente Encadeadas.AssemblyInfoInputs.cache
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Listas Duplamente Encadeadas/obj/Debug/net8.0/Listas Duplamente Encadeadas.AssemblyInfo.cs
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Listas Duplamente Encadeadas/obj/Debug/net8.0/Listas Duplamente Encadeadas.csproj.CoreCompileInputs.cache
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Listas Duplamente Encadeadas/obj/Debug/net8.0/Listas Duplamente Encadeadas.sourcelink.json
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Listas Duplamente Encadeadas/obj/Debug/net8.0/Listas Duplamente Encadeadas.dll
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Listas Duplamente Encadeadas/obj/Debug/net8.0/refint/Listas Duplamente Encadeadas.dll
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Listas Duplamente Encadeadas/obj/Debug/net8.0/Listas Duplamente Encadeadas.pdb
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Listas Duplamente Encadeadas/obj/Debug/net8.0/Listas Duplamente Encadeadas.genruntimeconfig.cache
+/home/dinolinux/CodigosVianna/Ed/Listas/Lista Linear/Listas Duplamente Encadeadas/obj/Debug/net8.0/ref/Listas Duplamente Encadeadas.dll

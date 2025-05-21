@@ -1,4 +1,5 @@
-﻿using System;
+﻿ using System;
+ using System.Collections.Generic;
 
 class Program
 {
@@ -21,27 +22,25 @@ class Program
 
           int* p2Valor = &pontSegundo.valor;
 
-          Node atual = primeiro;
+          Node? atual = primeiro;
 
-          while(atual != null)
-          {
-            Console.WriteLine(atual.Valor);
-            atual = atual.Proximo;
-          }
+          Console.WriteLine("");
             Console.WriteLine("Usando ponteiro puro: ");
            Console.WriteLine(pontPrimeiro.valor);          // 10
           Console.WriteLine(pontPrimeiro.proximoNo->valor);
           Console.WriteLine("");
-          Console.WriteLine((ulong)&pontPrimeiro.valor);
-           Console.WriteLine(*p2Valor);
+          Console.WriteLine($"Endereço de memoria do valor que o pontPrimeiro aponta: {(ulong)&pontPrimeiro.valor}");
+          Console.WriteLine($"Valor recuperado usando ponteiros: {*p2Valor}");
+        
 
+        Console.WriteLine("Usando uma classe lista");
 
-         
-        ListaEncadeada lista = new ListaEncadeada();
+    ListaEncadeada lista = new ListaEncadeada();
 
-        lista.AddElemento(90);
-         lista.AddElemento(5640);
+          lista.AddElemento(90);
+          lista.AddElemento(5640);
            lista.AddElemento(150);
+           
 
         lista.Imprimir();
     }

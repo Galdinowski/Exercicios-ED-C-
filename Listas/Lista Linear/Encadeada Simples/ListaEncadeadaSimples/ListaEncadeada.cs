@@ -1,6 +1,8 @@
 public class ListaEncadeada
 {
-    private Node head;
+    private Node? head;
+   
+
     public ListaEncadeada()
     {
         head = null;
@@ -8,13 +10,13 @@ public class ListaEncadeada
 
     public void AddElemento(int valor)
     {
-        Node novaCabeca = new Node(valor);
+        Node? novaCabeca = new Node(valor);
         if (head == null)
         {
             head = novaCabeca;
         }else
         {
-            Node atual = head;
+            Node? atual = head;
              while (atual.Proximo != null)
             {
                 atual = atual.Proximo;
@@ -25,7 +27,7 @@ public class ListaEncadeada
     }
      public void Imprimir()
     {
-        Node atual = head;
+        Node? atual = head;
         while (atual != null)
         {
             Console.Write(atual.Valor + " -> ");

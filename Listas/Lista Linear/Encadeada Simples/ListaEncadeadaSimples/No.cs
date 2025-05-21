@@ -9,4 +9,6 @@ class Node
         Valor = valor;
         
     }
+
+    
 }
